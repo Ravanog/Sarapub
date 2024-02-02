@@ -17,4 +17,3 @@ countryinfo
 aiofiles==22.1.0
 telegraph==2.2.0
 Pillow==9.4.0
-python==3.10.8
